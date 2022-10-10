@@ -1,5 +1,5 @@
 
-![Logo](/rafinhabusatta/nlw-esports/blob/main/web/src/assets/logo.svg)
+![Logo](/rafinhabusatta/nlw-esports/raw/main/web/src/assets/logo.svg)
 
 
 # NLW EsPorts - DuoMatch
