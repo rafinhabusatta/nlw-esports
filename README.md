@@ -1,5 +1,7 @@
 
-![Logo](/web/src/assets/logo.svg)
+<p align="center">
+<img src="/web/src/assets/logo.svg" />
+  </p>
 
 
 # NLW EsPorts - DuoMatch
