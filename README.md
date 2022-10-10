@@ -23,7 +23,7 @@ Projeto desenvolvido na semana da NLW EsPorts da RocketSeat. Aplicação web e m
 
 ## Screenshots
 
-![App Screenshot](/rafinhabusatta/nlw-esports/blob/main/web/src/assets/nlw-esports-web-screen.png)
+![App Screenshot](/web/src/assets/nlw-esports-web-screen.png)
 
 
 ## Trabalho em Progresso
